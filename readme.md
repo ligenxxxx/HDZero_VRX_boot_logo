@@ -1,4 +1,5 @@
 ## 1. Prepare or make a logo image.
+Image format:
 * Size: 480*240
 * Format: png
 * File name: LOGO_ME.png
