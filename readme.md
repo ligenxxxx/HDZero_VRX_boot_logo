@@ -1,6 +1,6 @@
 ## 1. Prepare or make a logo image.
 Image format:
-* Size: 480*240
+* Size: 1280*720
 * Format: bmp
 * File name: LOGO_ME.bmp
 ## 2. Put the logo file into the current path, execute bmp2rgb.bat, and the LOGO.ME file will be generated after execution.  
